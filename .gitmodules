@@ -1,0 +1,3 @@
+[submodule "Sample_SubModules"]
+	path = Sample_SubModules
+	url = https://github.com/Sivapadmakumaran/Sample_SubModules
